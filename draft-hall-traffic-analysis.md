@@ -154,7 +154,7 @@ Find out state of play regarding IPsec.
 
 ## Mixnets
 
-Talk about TOR (note also that TOR does some of the other things too)
+Talk about Tor (note also that Tor does some of the other things too)
 
 ## Moar Encryption
 
